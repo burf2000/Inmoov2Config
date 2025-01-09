@@ -1,0 +1,17 @@
+!!org.myrobotlab.service.config.OpenCVConfig
+cameraIndex: 2
+capturing: false
+filters: {
+  }
+flip: false
+grabberType: OpenCV
+inputFile: null
+inputSource: camera
+listeners:
+- callback: onOpenCVData
+  listener: i01
+  method: publishOpenCVData
+nativeViewer: false
+peers: null
+type: OpenCV
+webViewer: true
