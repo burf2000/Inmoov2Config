@@ -43,7 +43,7 @@ peers:
     name: i01.head.eyebrowRight
     type: Servo
   eyelidLeft:
-    autoStart: true
+    autoStart: false
     name: i01.head.eyelidLeft
     type: Servo
   eyelidLeftLower:
@@ -55,7 +55,7 @@ peers:
     name: i01.head.eyelidLeftUpper
     type: Servo
   eyelidRight:
-    autoStart: true
+    autoStart: false
     name: i01.head.eyelidRight
     type: Servo
   eyelidRightLower:
@@ -83,7 +83,7 @@ peers:
     name: i01.head.neck
     type: Servo
   rollNeck:
-    autoStart: true
+    autoStart: false
     name: i01.head.rollNeck
     type: Servo
   rothead:
