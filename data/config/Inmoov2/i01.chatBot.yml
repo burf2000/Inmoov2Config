@@ -5,10 +5,9 @@ bots:
 - resource/ProgramAB/Ency
 - resource/ProgramAB/Mr. Turing
 - resource/ProgramAB/en-US
-- resource/ProgramAB/en-llm
 channels: [
   ]
-currentBotName: en-US
+currentBotName: en-llm
 currentUserName: Simon
 listeners:
 - callback: onPredicate

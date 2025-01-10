@@ -116,6 +116,10 @@ registry:
 - i01.opencv
 - i01.imageDisplay
 - i01.random
+- i01.llm.http
+- i01.llm
+- i01.llmImg.http
+- i01.llmImg
 resource: resource
 type: Runtime
 virtual: false
