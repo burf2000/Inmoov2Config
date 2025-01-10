@@ -248,4 +248,10 @@
 <template>I cannot load the scripts, there is a problem with one of them.</template>
 </category>
 
+<category>
+<pattern>SYSTEM_EVENT *</pattern>
+<template><img src="../Llm.png"/>
+    <think><set name="topic"><star/></set></think></template>
+</category>
+
 </aiml>
