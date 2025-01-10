@@ -114,7 +114,6 @@ registry:
 - i01.head
 - i01.mouthControl
 - i01.opencv
-- i01.simulator
 - i01.imageDisplay
 - i01.random
 resource: resource
