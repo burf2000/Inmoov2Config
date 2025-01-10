@@ -5,9 +5,6 @@ listeners:
 - callback: onFilterText
   listener: python
   method: publishText
-- callback: onText
-  listener: i01.htmlFilter
-  method: publishText
 maxHistory: 5
 maxTokens: 256
 model: llama3.2

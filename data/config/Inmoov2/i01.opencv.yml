@@ -1,5 +1,5 @@
 !!org.myrobotlab.service.config.OpenCVConfig
-cameraIndex: 2
+cameraIndex: 0
 capturing: false
 filters: {
   }
@@ -8,6 +8,9 @@ grabberType: OpenCV
 inputFile: null
 inputSource: camera
 listeners:
+- callback: onImage
+  listener: i01.llmImg
+  method: publishImage
 - callback: onOpenCVData
   listener: i01
   method: publishOpenCVData
