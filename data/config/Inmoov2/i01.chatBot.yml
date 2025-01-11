@@ -7,7 +7,7 @@ bots:
 - resource/ProgramAB/en-US
 channels: [
   ]
-currentBotName: en-llm
+currentBotName: en-US
 currentUserName: Simon
 listeners:
 - callback: onPredicate

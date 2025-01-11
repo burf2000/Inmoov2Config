@@ -5,7 +5,8 @@
 <category><pattern>*</pattern>
 <template><condition name="llm">
         <li value="enabled">
-        <sraix><star/></sraix>
+        <!--<sraix><star/></sraix>-->
+        <srai>SRAIXFAILED <star/></srai>
         </li>
         <li>
         <srai>UDC</srai>

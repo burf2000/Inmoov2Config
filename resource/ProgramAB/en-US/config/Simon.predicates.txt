@@ -1,96 +1,20 @@
-address:where
-age:minutes
-baby:who
-bestfriend:who
-birthday:when
-birthplace:where
-boot.end:1736348177581
-botname:Ruth
-boyfriend:who
-brother:who
-cat:what
-city:which
-country:which
-county:which
-customname:unknown
-daughter:who
-description:what
-dialnumber:unknown
-dog:who
-email:what
-emotion:sleeping
-employer:who
-equalto:false
-face:sleeping
-familiarpredicate:unknown
-father:who
-favoriteactor:who
-favoriteactress:who
-favoriteband:who
-favoritebook:what
-favoritecar:what
-favoritecolor:what
-favoritedrink:what
-favoritefood:what
-favoriteicecream:what
-favoritemovie:what
-favoritesong:what
-favoritesport:what
-favoritetvshow:what
+boot.end:1736587855648
+botState:
+botname:Reggie
+emotion:happy
+face:happy
 firstinit:unknown
 firstname:Simon
-friend:who
-gender:MALE
-girlfriend:who
-grandfather:who
-grandmother:who
-hair:what
-has:what
-he:who
-husband:who
 img:../service/img/user_unknown.png
-insultPoints:0
-isaname:I like to listen and be of service.
-isanumber:false
-isfamiliarname:false
-it:joker take a cat
 jsenabled:true
-lastname:what
-latitude:which
-learnpattern:WHAT IS THE
-likes:what
-location:joker take a cat
+llm:enabled
 lockInsult:off
-longitute:which
-meta:set
-middlename:what
-mother:who
 name:Simon
-nephew:who
-newcontact:unknown
-newpattern:who is active parents helping us
-niece:who
-orientation:unknown
-phonenumber:unknown
-playsong:ko
-province:which
-religion:unknown
-residence:where
-road:which
-she:who
-sign:which
-sister:who
-son:who
-state:which
-status:what
-street:which
-them:who
-there:it
-topic:joker take a cat
-town:which
-userDescription:no personal description
-voicemailnumber:unknown
-wake.end:1736351145682
-wake.start:1736351145688
-we:who
-wife:who
+newinituser:started
+questionnewinituser:if your new name is what is your name , say yes or no or stop
+tempname:simon
+tmpname:what is your name
+topic:Tell me a story
+userDescription:no personal info
+wake.end:1736588279927
+wake.start:1736588279930

@@ -2,6 +2,18 @@
 <aiml>
   <!--  gael le 04/09/2023 -->
   <!--  -->
+
+<category><pattern>REPETITIONDETECTED</pattern>
+<template><random>
+      <li>You are repeating yourself.</li>
+      <li>Are you aware you just said that?</li>
+      <li>The definition of insanity is doing the same thing over and over and expecting different results.</li>
+      <li>Did you mean to repeat yourself?</li>
+      <li>You've already said that.</li>
+      <li>Again?</li>
+    </random></template>
+</category>
+  
 <category><pattern>ALERT</pattern>
 <template>
       Alert,

@@ -128,8 +128,6 @@ def onFilterText(text):
     print("Filtered Text:", filtered_text.strip())
     if runtime.isStarted('i01.mouth'):
       i01_mouth.speak(filtered_text)
-    if runtime.isStarted('i01.chatBot'):
-      i01.invoke("publishEvent", str( filtered_text))
     print("Extracted Word:", extracted_word)
     print("Parameters:", params)
     function_to_call = globals().get(extracted_word)

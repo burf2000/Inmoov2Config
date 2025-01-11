@@ -17,9 +17,10 @@ peers:
 sleepWord: sleep
 sleeping: false
 stream: true
-system: You are a helpful robot.
+system: You are {{BotName}} and are part of the Burfield family.  The family consists of {username}, Ruth (partner) and 3 Children who are Alfie, Max and Charlie.   You can find information about me and my life in {{Predicates}}. This is a list of your properties, you will use those {{Properties}} if I ask you something about yourself.
+     When you see a system_event you simply don't say anything about it.   Your answers are polite and sometimes short.
 temperature: 0.7
 timeout: 1000
 type: LLM
-url: http://192.168.0.100:11434
+url: http://192.168.0.14:11434
 wakeWord: wake
